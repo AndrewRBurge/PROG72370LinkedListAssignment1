@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  queue.cpp
+C:\ConProgramming\Assignment1(linkedLists)\Assignment1(linkedLists)\queue.cpp(94,9): warning C4101: 'factionc': unreferenced local variable
+  Generating Code...
+  Assignment1(linkedLists).vcxproj -> C:\ConProgramming\Assignment1(linkedLists)\x64\Debug\Assignment1(linkedLists).exe
