@@ -112,7 +112,7 @@ void fillQueueRandom(queue* q, int count) {
 
             name = name + charset[rand() % charsetSize];
         }
-
+ faction = factionset[rand() % factSize];
         //add the random values to the end of the queue
         enqueue(q, name, level, faction);
     }
