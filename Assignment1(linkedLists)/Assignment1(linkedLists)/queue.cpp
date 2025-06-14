@@ -112,13 +112,6 @@ void fillQueueRandom(queue* q, int count) {
 
             name = name + charset[rand() % charsetSize];
         }
-        //generate faction
-        faction = factionset[rand() % factSize];
-        cout << "\nUSER:";
-        cout << "\nname: " << name;
-        cout << "\nlevel: " << level;
-        cout << "\nfaction: " << faction;
-        cout << "\n";
 
         //add the random values to the end of the queue
         enqueue(q, name, level, faction);
