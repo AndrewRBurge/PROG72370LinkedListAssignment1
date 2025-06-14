@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\ConProgramming\Assignment 01 (Queues-Linked list)\Assignment 01 (Queues-Linked list)\main.cpp(42,6): warning C4101: 'factionc': unreferenced local variable
-C:\ConProgramming\Assignment 01 (Queues-Linked list)\Assignment 01 (Queues-Linked list)\main.cpp(85,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Assignment 01 (Queues-Linked list).vcxproj -> C:\ConProgramming\Assignment 01 (Queues-Linked list)\x64\Debug\Assignment 01 (Queues-Linked list).exe
